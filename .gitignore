@@ -1,0 +1,9 @@
+# Python auto generated folders
+__pycache__/
+
+
+# Spark auto generated folders
+meta_db_store/
+
+.idea
+partitioning-applied.iml
